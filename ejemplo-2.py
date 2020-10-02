@@ -2,7 +2,7 @@
 ingresos=int(input("¿cuantos números desea ingresar?: "))
 
 par = 0
-inpar = 0
+impar = 0
 
 for x in range(ingresos):
     numero=int(input("Ingrese un número: "))
