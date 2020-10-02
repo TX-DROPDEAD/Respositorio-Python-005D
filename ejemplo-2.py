@@ -1,4 +1,3 @@
-
 ingresos=int(input("¿cuantos números desea ingresar?: "))
 
 par = 0
